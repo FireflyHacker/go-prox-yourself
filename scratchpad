@@ -1,0 +1,8 @@
+https://github.com/luthermonson/go-proxmox
+https://github.com/DragSE/proxmox-api-go
+
+
+
+# Libraries
+
+github.com/caarlos0/env - env parsing into structs
